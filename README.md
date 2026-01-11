@@ -58,8 +58,7 @@ src/
 ---
 
 ## 🚀 Live Demo
-👉 **Deployed Link:**  
-(Add Vercel / Netlify link here after deployment)
+**Deployed Link:https://ryze-website-redesign-koez.vercel.app/**  
 
 ---
 
